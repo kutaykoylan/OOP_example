@@ -1,14 +1,14 @@
 ## OOP_example
   
-#Default Doctor users:
+# Default Doctor users:
 *Kutay
 *Ali
 *Ahmet
 *David
-#Default Receptionist users:
+# Default Receptionist users:
 *Ayþe
 *Tolun
-#Default Patients:
+# Default Patients:
 *Ayþe(examined)
 *Korcan
 *Ali
